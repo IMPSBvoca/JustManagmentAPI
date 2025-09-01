@@ -1,0 +1,6 @@
+@JustManagmentAPI.Web_HostAddress = http://localhost:5251
+
+GET {{JustManagmentAPI.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
